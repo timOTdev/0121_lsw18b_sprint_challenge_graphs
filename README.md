@@ -1,4 +1,4 @@
-# Sprint Challenge: Graphs
+# 0122_lsw18b_sprint_challenge_graphs
 
 There are two parts to this sprint challenge:
 
